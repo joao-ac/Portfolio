@@ -79,7 +79,7 @@ export default function Portfolio() {
       description: t('projects.nlwConnect.description'),
       image: "/previews/nlw-connect.png?height=200&width=300",
       technologies: ["Java", "Spring Boot", "Docker"],
-      githubUrl: "https://github.com/joao-ac/NLW-ai"
+      githubUrl: "https://github.com/joao-ac/NLW-Connect-2025"
     },
     {
       title: t('projects.taskList.title'),
